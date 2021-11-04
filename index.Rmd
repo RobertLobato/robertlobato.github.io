@@ -18,7 +18,7 @@ output:
 
 <!-- ## Bio -->
 
-**Associate Professor** and **Chief of the Division of Multispecialty Anesthesiology** at the University of Nebraska Medical Center in Omaha, NE. Clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical database research, machine learning, implementation science, and performance and outcomes measures.
+**Associate Professor** and **Chief of the Division of Multispecialty Anesthesiology** at the University of Nebraska Medical Center in Omaha, NE. Clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical database research, machine learning, quality improvement, and performance and outcomes measures.
 
 <!-- ## Medical Education and Training -->
 
