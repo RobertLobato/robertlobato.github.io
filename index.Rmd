@@ -29,3 +29,5 @@ output:
 <!-- **Stanford University School of Medicine**<br> -->
 <!-- Medical Doctorate and <br> -->
 <!-- Masters Degree in Clinical Epidemiology | 2004 -->
+
+<a rel="me" href="https://mstdn.social/@robertlobatomd"></a>
