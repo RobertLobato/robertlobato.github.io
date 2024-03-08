@@ -2,12 +2,12 @@
 title: "Robert L. Lobato MD MS"
 image: "curriculum_vitae/lobato.jpg"
 links:
-  - label: UNMC Bio
-    url: "https://www.unmc.edu/anesthesia/people/faculty/bios/Lobato.html"
-  - label: Twitter
-    url: "https://twitter.com/RobertLobatoMD"
+  # - label: UNMC Bio
+  #   url: "https://www.unmc.edu/anesthesia/people/faculty/bios/Lobato.html"
+  # - label: Twitter
+  #   url: "https://twitter.com/RobertLobatoMD"
   - label: Email
-    url: "mailto:robert.lobato@unmc.edu"
+    url: "mailto:robertlobatomd@gmail.com"
   - label: CV
     url: "https://robertlobato.github.io/curriculum_vitae/Robert_L_Lobato_CV.pdf"
   - label: Google Scholar
@@ -20,7 +20,7 @@ output:
 
 **Professor of Anesthesiology** and<br>**Associate Vice Chair for Administration and Finance**<br>in the Department of Anesthesiology at<br>the University of Nebraska Medical Center.
 
-Clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical outcomes research, operating room efficiency, workforce modeling, and OKR methodology.
+Board-certified Cardiac Anesthesiologist with a clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical outcomes research, operating room efficiency, workforce modeling, and OKR methodology.
 
 <!-- ## Medical Education and Training -->
 
