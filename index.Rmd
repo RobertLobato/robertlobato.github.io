@@ -18,11 +18,9 @@ output:
 
 <!-- ## Bio -->
 
-**Professor of Anesthesiology** and<br>**Associate Vice Chair for Administration and Finance**<br>in the Department of Anesthesiology at<br>the University of Nebraska Medical Center.
+**Board-certified Cardiac Anesthesiologist** with a clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical outcomes research, operating room efficiency, workforce modeling, and OKR methodology.
 
-Board-certified Cardiac Anesthesiologist with a clinical specialization in thoracic anesthesiology and complex cardiac patients undergoing noncardiac surgery. Scholarly interests include clinical outcomes research, operating room efficiency, workforce modeling, and OKR methodology.
-
-<!-- ## Medical Education and Training -->
+<!-- #### Medical Education and Training -->
 
 <!-- **Duke University Medical Center**<br> -->
 <!-- Anesthesiology Residency and<br> -->
