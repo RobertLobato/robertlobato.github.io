@@ -1,6 +1,6 @@
 ---
 title: "Robert L. Lobato MD MS"
-image: "curriculum_vitae/lobato.jpg"
+image: "./curriculum_vitae/lobato.jpg"
 links:
   # - label: UNMC Bio
   #   url: "https://www.unmc.edu/anesthesia/people/faculty/bios/Lobato.html"
@@ -15,6 +15,10 @@ links:
 output:
   postcards::jolla
 ---
+
+<!-- To Compile this document, paste this into the R session prompt:
+                rmarkdown::render("index.Rmd") 
+-->
 
 <!-- ## Bio -->
 
